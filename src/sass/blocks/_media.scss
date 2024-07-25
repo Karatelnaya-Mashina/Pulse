@@ -133,9 +133,12 @@
 	.modal {
 		padding: 20px 15px 20px 15px;
 		width: 80%;
-		min-height: 340px;
+		min-height: 143px;
 		&__close {
 			right: -3px;
+		}
+		&__subtitle {
+			margin-top: 20px;
 		}
 	}
 }
